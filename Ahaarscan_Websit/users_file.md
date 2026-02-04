@@ -30,3 +30,34 @@
 
 
 ---
+
+|  |  |
+|------|-------|
+|Main |  |
+| Project URL | https://ahaarscan.com |
+
+---
+|  |  |
+|------|-------|
+|API |  |
+| Project URL | https://api.ahaarscan.com |
+
+----
+|  |  |
+|------|-------|
+|Admin |  |
+| Project URL | https://admin.ahaarscan.com |
+
+
+---
+|  |  |
+|------|-------|
+|Customer |  |
+| Project URL | https://customer.ahaarscan.com |
+
+---
+|  |  |
+|------|-------|
+|Restaurant |  |
+| Project URL | https://restaurant.ahaarscan.com |
+---
